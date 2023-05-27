@@ -37,7 +37,7 @@ To run the drawing app locally, follow these steps:
 1. Clone the project repository:
 
    ```
-   git clone https://github.com/your-username/drawing-app.git
+   git clone https://github.com/Mbahvictor16/drawing-app
    ```
 
 2. Navigate to the project directory:
