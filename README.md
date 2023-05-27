@@ -64,9 +64,7 @@ Contributions to this project are welcome. If you would like to contribute, plea
 
 Please ensure that your contributions align with the project's coding standards and follow best practices.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ## Acknowledgements
 
